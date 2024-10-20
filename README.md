@@ -32,6 +32,6 @@ Orden de parametros del codigo
 
 ## Hecho por
 
-- [@BenjahYKP](https://github.com/BenjahYKP)
-- [@Nicoflenn](https://github.com/Nicoflenn)
+- [@BenjahYKP](https://github.com/BenjahYKP) Benjamin Ortiz
+- [@Nicoflenn](https://github.com/Nicoflenn) Nicolas Ibieta
 
