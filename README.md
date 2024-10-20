@@ -24,11 +24,11 @@ Orden de parametros del codigo
 ````
 - Distancia_de_la_carrera = Distancia que deberan recorrer los autos para terminar la carrera
 - Cantidad_de_autos = Cantidad de autos que participaran en la carrera
-- Modo_de_la_carrera = Modo en el que se ejecutara la carrera 
+- Modo_de_la_carrera = Modo en el que se ejecutara la carrera, en caso de no ingresar ningun valor se ejecutara en modo normal automaticamente
 
   (0) Modo Normal: Cumple con los requisitos establecidos en la rúbrica de evaluación del profesor, el cual hace que el nombre de los autos sean (Auto0, Auto1, etc).
 
-  (1) Modo Personalizado: Ejecuta la carrera en un modo personalizado, el cual hace que el nombre de los autos sean nombres de autos reales, hasta una variedad de 50 autos, esta version no cumple con los requisitos de la rúbrica.
+  (1) Modo Personalizado: Ejecuta la carrera en un modo personalizado, el cual hace que el nombre de los autos sean nombres de autos reales, hasta una variedad de 50 autos, en caso de pasarse en la cantidad de autos, se rellenara automaticamente con (Auto0, Auto1, etc), esta version no cumple con los requisitos de la rúbrica.
 
 ## Hecho por
 
