@@ -1,8 +1,8 @@
 
 # Tarea N1 Sistemas Operativos 
 
-Se solicita simular una carrera de autos utilizando programaci´on multihebras. Cada autom´ovil competidor correr´a en una hebra distinta. La carrera consiste en que cada auto
-recorrer´a una distancia de M metros en intervalos de tiempo aleatorios.
+Se solicita simular una carrera de autos utilizando programacion multihebras. Cada automovil competidor correra en una hebra distinta. La carrera consiste en que cada auto
+recorrera una distancia de M metros en intervalos de tiempo aleatorios.
 
 ## Compilar el programa
 
