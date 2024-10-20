@@ -61,7 +61,7 @@ void correr(Auto &FranchescoVirgolini, int &autosenlameta, int &lugar_actual) {
 int main(int argc, char *argv[]) {
     // Verificar argumentos ingresados por teclado
     if (argc < 3 || argc > 4) {
-        cout << "Uso: " << argv[0] << " <distancia total> <número de autos> [<nombres default= 0 / nombres de autos= 1>]\n";
+        cout << "Uso: " << argv[0] << " <Distancia_de_la_carrera> <Cantidad_de_autos> [<Modo_de_la_carrera>]\n";
         return 1;
     }
 
