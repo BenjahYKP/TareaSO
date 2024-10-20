@@ -22,7 +22,7 @@ Orden de parametros del codigo
 ```bash
 ./CarreradeBuses <Distancia_de_la_carrera> <Cantidad_de_autos> <Modo_de_la_carrera>
 ````
-- Distancia_de_la_carrera = Distancia que deberan recorrer los autos para termianr la carrera
+- Distancia_de_la_carrera = Distancia que deberan recorrer los autos para terminar la carrera
 - Cantidad_de_autos = Cantidad de autos que participaran en la carrera
 - Modo_de_la_carrera = Modo en el que se ejecutara la carrera 
 
